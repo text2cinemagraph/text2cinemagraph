@@ -1,0 +1,7 @@
+detectron2@ https://github.com/facebookresearch/detectron2/archive/v0.6.zip
+scipy>=1.7.3
+boto3>=1.21.25
+hydra-core==1.1.1
+omegaconf==2.1.1
+panopticapi@ https://github.com/cocodataset/panopticapi/archive/master.zip
+lvis@ https://github.com/lvis-dataset/lvis-api/archive/master.zip

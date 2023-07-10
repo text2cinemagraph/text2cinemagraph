@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mask2former
+Version: 0.1
+Summary: A pip installable version of mask2former
+Home-page: https://github.com/facebook/mask2former
+Author: Bowen Cheng
+Requires-Python: >=3.6
+License-File: LICENSE

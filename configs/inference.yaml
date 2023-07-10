@@ -1,0 +1,70 @@
+twin_extraction:
+  experiment_name: "example"
+  init_img: ""
+  prompt: "a large waterfall falling from hills during sunset in the style of Leonid Afremov"
+  scale: 5.0
+  ddim_steps: 50
+  seed: 23
+  ddim_eta: 0.0
+  save_all_features: True
+  H: 512
+  W: 512
+  C: 4
+  f: 8
+  model_config: img2img/configs/stable-diffusion/v1-inference.yaml
+  ckpt: img2img/models/ldm/stable-diffusion-v1/sd-v1-4-full-ema.ckpt
+  precision: autocast
+  exp_path_root: outputs
+  save_feature_timesteps: 50
+
+twin_generation:
+  prompt: "waterfall, nature, jungle, bright, realistic, photography, 4k, 8k"
+  scale: 7.5
+  num_ddim_sampling_steps: 50
+  feature_injection_threshold: 40
+  negative_prompt: 
+  negative_prompt_alpha: 0.75
+  negative_prompt_schedule: "linear"
+
+odise:
+  config_file: "ODISE/configs/Panoptic/odise_label_coco_50e.py"
+  init_from: "odise://Panoptic/odise_label_coco_50e"
+  input: 
+  output:
+  vocab: "water, waterfall, river, ocean, lake, sea"
+  labels: []
+
+attn_mask:
+  input_blocks: [4,5]
+  output_blocks: [6,7,8]
+  res: 32
+  n_clusters: 5
+  threshold: 0.7
+  erosion_ksize: 5
+  erosion_iter: 0
+  cluster_type: spectral
+
+optical_flow:
+  tokenizer_path: 'checkpoints/stable-diffusion-v1-4'
+  use_prompts: True
+  no_instance: True
+  label_nc: 0
+  input_nc: 4
+  output_nc: 2
+  fineSize: 512
+  batchSize: 1
+  netG: spadexattnunetsd
+  model_name: "motion-pretrained"
+  norm: "instance"
+
+video:
+  no_instance: True
+  label_nc: 0
+  input_nc: 8
+  output_nc: 3
+  fineSize: 512
+  batchSize: 1
+  netG: spadeunet4softmaxsplating
+  model_name: "video-pretrained"
+  n_frames: 60
+  speed: 0.5

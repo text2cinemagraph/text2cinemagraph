@@ -1,0 +1,15 @@
+# config:
+#   experiment_name: "waterfall_animated_valley"
+#   init_img: ""
+#   prompt: "an artistic photo of waterfall falling from the sky in a pink planet during sunset"
+#   scale: 5.0
+#   ddim_steps: 50
+#   seed: 50
+
+config:
+  experiment_name: "custom_image"
+  init_img: ""
+  prompt: "an artistic photo of waterfall falling from the sky in a pink planet during sunset"
+  scale: 7.5
+  ddim_steps: 50
+  seed: 50

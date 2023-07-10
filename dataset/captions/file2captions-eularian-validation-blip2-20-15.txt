@@ -1,0 +1,162 @@
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01003_00048:a small waterfall in the middle of a lush green forest with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00999_01392:a beautiful waterfall in the middle of a river with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00999_01044:a beautiful river with rapids in the middle of a forested area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01001_01416:a large body of water with a mountain in the background and trees on the shore
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01008_01428:a beautiful waterfall in the middle of a tropical forest with blue water and green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_01740:a river flows through a rocky landscape with mountains in the background and clouds in the sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00983_00000:a view of the shoreline of a lake with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_01392:a river with mountains in the background and a blue lake in front of it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00986_01416:a sandy beach with rocks and water in front of a hill and ocean
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_01044:a river in the middle of a mountain range with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01007_00078:a bride is standing in the middle of a stream surrounded by green plants
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_01044:a waterfall in the middle of a mountain range with rocks and trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_01392:a waterfall in the middle of a rocky river with rocks and trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00987_00234:an island in the middle of the ocean with rocks and rocks in the water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_01044:an image of a waterfall in the middle of a lush green valley with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_01392:an image of a waterfall in the middle of a lush green forest area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00983_00696:a body of water with rocks on the shore and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_00348:a view of a river flowing through a valley with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00993_00000:an aerial view of a river flowing through a forested area with lots of green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01004_00000:a waterfall in the middle of a tropical forest with blue water and trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00982_04272:big sur, california
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00982_00000:big sur, california
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00983_00348:a view of the shoreline of a lake with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01001_02124:a large body of water with a mountain in the background and trees on the shore
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00987_00156:a view of the ocean with rocks and rocks in the foreground and a small island in the distance
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_01044:a waterfall in the middle of a forest with rocks and water flowing over them
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_01392:a waterfall in the middle of a forest with rocks and water flowing over it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_00696:a river runs through the middle of a field with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01008_05712:a beautiful waterfall in the middle of a lush green forest with blue water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_00708:a sandy beach with waves rolling in and out of the ocean on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_00000:the view from the top of a mountain in the middle of a valley
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00992_00000:a sandy beach with white sand and waves in front of a blue sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00981_00096:a view of a river with rocks and trees in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00988_01392:an aerial view of a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00982_03204:big sur, california
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00988_01044:an aerial view of a waterfall in the middle of a forested area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00981_00024:a view of a river with rocks and trees in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_01392:a river in the middle of a mountain range with water rushing through it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_01044:a river in the middle of a mountain range with water rushing through it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00986_02124:a sandy beach with a body of water in the foreground and a hill in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00992_02832:a sandy beach with white sand and blue water in front of a mountain
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01004_01428:an image of a waterfall in the jungle with blue water and green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01003_00192:a small waterfall in the middle of a lush green forest with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00990_00348:a waterfall in the middle of a lush green forest with a blue sky in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01006_00000:an aerial view of a lake with mountains in the background and a boat in the water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00993_00672:an aerial view of a river surrounded by trees and green water in the middle of a forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00991_00000:a body of water with mountains in the background and clouds in the sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00995_01392:a rainbow appears over a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00995_01044:a rainbow appears over a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00991_02832:the sun is shining on the water in front of a mountain with snow capped peaks in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01008_00000:a beautiful waterfall in the middle of a tropical forest with green trees and water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01009_00348:a small stream running through a forest with trees and a bridge over it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00984_01068:plitvice lakes national park, croatia, waterfalls, waterfalls, nature,
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00981_00000:a view of a river with rocks and trees in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00993_00168:an aerial view of a river flowing through a forested area with green water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01006_00696:a lake with mountains in the background and a boat docked on it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_01416:a sandy beach with waves rolling in and out of the ocean on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00985_01044:a lake with rocks and grass in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00985_01392:a lake with rocks and grass on the shore and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01010_00048:a suspension bridge crosses over a river in a forested area with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01009_00696:a small stream running through a forest with trees and bushes in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01007_00312:a woman in a wedding dress standing next to a stream in the woods
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01001_00708:a large body of water with a mountain in the background and some rocks on the shore
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01002_01068:an aerial view of a river with rocks and water in the middle of a forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00990_00000:an image of a waterfall in the middle of a lush green forest with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01006_00348:an aerial view of a lake with mountains in the background and a boat in the water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01007_00000:a bride and groom standing in the middle of a stream in the woods
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_02124:a sandy beach with waves rolling in and out of the ocean on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00980_02832:a river running through a forest in the middle of a forested area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00990_00696:a waterfall in the middle of a lush green forest with a blue sky in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00982_02136:big sur, california - big sur, california - big sur, calif
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00981_00072:a view of a river with rocks and trees in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01004_05712:an image of a waterfall in the middle of a tropical forest with blue water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00980_00000:a river running through a forest in the middle of a rocky river bed
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00986_00708:a sandy beach with waves crashing against the shore and a hill in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00993_00336:an aerial view of a river flowing through a forested area with green water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01009_00000:a stream running through a lush green forest with trees and water flowing through it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_00348:patagonia, argentina, argentina, patagonia, argentina
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_00000:a river with rapids in the middle of a forest with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_00348:a waterfall in the middle of a mountain with rocks and water flowing through it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01001_00000:a large body of water in front of a mountain with clouds in the sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_00348:an image of a waterfall in the middle of a lush green valley with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00988_00000:an aerial view of a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_00696:a waterfall in the middle of a forest with rocks and water flowing over them
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_01044:a river runs through the middle of a field with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01005_01392:a river flows through a rocky valley surrounded by trees and mountains on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01001_02832:a large mountain in the distance with a lake and trees in front of it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00981_00048:a view of a river with rocks and trees in the foreground and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_01740:a waterfall in the middle of a river with rocks and trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_01740:patagonia, argentina, argentina, patagonia, argentina
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00980_00708:a river running through a forest in the middle of a forested area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_00000:a waterfall in the middle of a forest with rocks and water flowing over them
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00999_00348:a river with white water and green trees in front of a mountain range
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_01740:an image of a waterfall in the middle of a lush green forest area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00986_00000:wall art - photograph - kapalua beach - kapalua, hawaii by
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01004_04284:an image of a waterfall in the middle of a tropical forest with blue water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_00696:a river with rapids in the middle of a forest with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00984_02136:plitvice lakes national park, croatia, waterfalls wallpaper
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01010_00072:a wooden bridge crosses over a river in the middle of a wooded area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00988_00696:an aerial view of a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00986_02832:a sandy beach with a rocky shoreline next to a body of water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00992_02124:a sandy beach with white water and a mountain in the distance on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01002_02136:an aerial view of a river with rocks and water flowing over rocks in the middle of the river
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01008_02856:a beautiful waterfall in the middle of a tropical forest with blue water and green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00999_00696:beautiful waterfalls in patagonia, argentina, argentina, argent
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00991_00708:a body of water with mountains in the background and clouds in the sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_00000:an image of a waterfall in the middle of a lush green valley with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00988_00348:an aerial view of a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_01740:a waterfall in the middle of a tropical forest with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_00000:a river in the middle of a mountain range with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_00348:a river with rapids in the middle of a forest with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_00000:a waterfall in the middle of a rocky river with rocks and trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00993_00504:an aerial view of a river flowing through a forested area with lots of green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00989_00696:an image of a waterfall in the middle of a lush green forest area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00987_00312:a view of the ocean with rocks and rocks in the foreground and a small island in the distance
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00992_01416:a sandy beach with white sand and waves in front of a mountain range
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00983_01392:a view of the shoreline of a lake with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00983_01044:a body of water with rocks on the shore and mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00997_00696:a waterfall in the middle of a mountain surrounded by rocks and green trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01000_00696:a river in the middle of a mountain range with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01003_00144:a small waterfall in the middle of a lush green forest with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01003_00096:a river running through a lush green forest with trees and waterfalls in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00987_00000:a view of the ocean with rocks in the foreground and a small island in the distance
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01010_00000:a wooden bridge crosses over a river in the middle of a wooded area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00996_01740:a river in the middle of a mountain range with water rushing through it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00998_00348:a waterfall in the middle of a forest with rocks and water flowing over them
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00982_01068:big sur, california
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00999_00000:a beautiful waterfall in the middle of a river with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01009_01044:a small stream running through a wooded area with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01009_01392:a small stream running through a forest in the middle of a lush green area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00987_00078:a view of the ocean with rocks and rocks in the foreground and a small island in the distance
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00991_01416:the sun is shining on the water in front of a mountain with snow on it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01007_00234:a bride in a white dress standing in front of a waterfall in the woods
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01002_04272:an aerial view of a river with rocks and water in the middle of it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00984_00000:plitvice lakes national park, croatia, waterfalls, waterfalls, nature,
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00985_00348:a lake with rocks and grass on the shore next to a mountain range
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00990_01044:an image of a waterfall in the middle of a lush green forest with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00990_01392:an image of a waterfall in the middle of a lush green forest with a blue sky in the
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_02832:a view of the ocean from a beach with white sand and blue sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00980_02124:a river flowing through a forest in the middle of a rocky river bed
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01008_04284:beautiful waterfalls in the jungle hd wallpapers hd wallpapers hd wallpapers
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_03540:a sandy beach with waves rolling in and out of the ocean on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00984_03204:plitvice lakes national park, croatia, waterfalls wallpaper
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01010_00024:a wooden bridge crosses over a river in the middle of a wooded area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00995_00348:a large waterfall with a rainbow in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01003_00000:a small waterfall in the middle of a lush green forest with trees in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00994_00000:a sandy beach with waves crashing into the ocean and a clear blue sky
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01010_00096:a wooden bridge crosses over a river in the middle of a wooded area
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00992_00708:a sandy beach with white sand and waves in the ocean on a sunny day
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00985_00000:a lake with rocks and grass on the shore next to a mountain range
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01004_02856:a waterfall in the middle of a tropical forest with blue water and trees
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00991_02124:a lake with mountains in the background and a sun shining on the water
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01002_03204:an aerial view of a river with rocks and water flowing over rocks in the middle of the river
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00995_00696:a large waterfall with a rainbow in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00984_04272:plitvice lakes national park, croatia, waterfalls wallpaper
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00995_00000:a rainbow appears over a waterfall in the middle of a lush green forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01002_00000:an aerial view of a river with rocks and water flowing over the rocks
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00985_00696:a view of a lake with rocks and trees in front of a mountain
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01006_01044:a lake with mountains in the background and a boat docked on it
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/00980_01416:a river running through a forest in the middle of a forest
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01006_01392:a large body of water in the middle of a mountain range with mountains in the background
+/grogu/user/amahapat/dreambooth/Eulerian/eulerian_data/validation/01007_00156:a bride in a white dress standing next to a stream in the woods

@@ -1,0 +1,27 @@
+xformers==0.0.16
+albumentations==0.4.3 
+diffusers 
+pudb==2019.2 
+invisible-watermark 
+imageio==2.9.0
+imageio-ffmpeg==0.4.2 
+pytorch-lightning==1.4.2 
+omegaconf==2.1.1 
+test-tube>=0.7.5 
+streamlit>=0.73.1 
+einops==0.3.0 
+torch-fidelity==0.3.0 
+transformers==4.26.1 
+torchmetrics==0.6.0 
+kornia==0.6 
+scikit-learn==1.1.1
+moviepy 
+decord 
+dominate 
+nltk 
+py-lz4framed 
+dill
+gdown
+numpy==1.23.1
+-e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
+-e git+https://github.com/openai/CLIP.git@main#egg=clip

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: odise
+Version: 0.1
+Summary: Open-vocabulary DIffusion-based Panoptic Segmentation
+Home-page: https://github.com/NVlabs/ODISE
+Author: Jiarui Xu
+Requires-Python: >=3.8
+Provides-Extra: dev
+License-File: LICENSE
