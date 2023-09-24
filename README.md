@@ -1,8 +1,8 @@
 # Text2Cinemagraph
 
-<!-- ### [**paper**](https://arxiv.org/abs/2307.03190) | [**website**](https://text2cinemagraph.github.io/website/) -->
+### [**paper**](https://arxiv.org/abs/2307.03190) | [**website**](https://text2cinemagraph.github.io/website/)
 
-### [**website**](https://text2cinemagraph.github.io/website/)
+<!-- ### [**website**](https://text2cinemagraph.github.io/website/) -->
 
 This is the official PyTorch implementation of "Synthesizing Artistic Cinemagraphs from Text".
 
@@ -370,7 +370,7 @@ Note that the edit prompts can be specified manually or can also be atumatically
 
 The code for `FVD` computation has been taken from [StyleGAN-V](https://github.com/universome/stylegan-v).
 
-<!-- ## Citation
+## Citation
 
 ``` bibtex
 @article{mahapatra2023synthesizing,
@@ -379,8 +379,10 @@ The code for `FVD` computation has been taken from [StyleGAN-V](https://github.c
     journal={arXiv preprint arXiv:2307.03190},
     year={2023}
 }
-``` -->
+```
 
 ## Acknowledgments
 
 The code for this project was built using the codebase of [pix2pixHD](https://github.com/NVIDIA/pix2pixHD), [ODISE](https://github.com/NVlabs/ODISE), [plug-and-play](https://github.com/MichalGeyer/plug-and-play/tree/main), [SLR-SFS](https://github.com/simon3dv/SLR-SFS/tree/main). The `symmetric-splatting` code was built on top of [softmax-splatting](https://github.com/sniklaus/softmax-splatting). The code for evalution metric (`FVD`) was build on codebase of [StyleGAN-V](https://github.com/universome/stylegan-v). We are very thankful to the authors of the corresponding works for releasing their code.
+
+We are also grateful to Nupur Kumari, Gaurav Parmar, Or Patashnik, Songwei Ge, Sheng-Yu Wang, Chonghyuk (Andrew) Song, Daohan (Fred) Lu, Richard Zhang, and Phillip Isola for fruitful discussions. This work is partly supported by Snap Inc. and was partly done while Aniruddha was an intern at Snap Inc.
