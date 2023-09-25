@@ -4,7 +4,7 @@
 
 <!-- ### [**website**](https://text2cinemagraph.github.io/website/) -->
 
-This is the official PyTorch implementation of "Synthesizing Artistic Cinemagraphs from Text".
+This is the official PyTorch implementation of "Text-Guided Synthesis of Eulerian Cinemagraphs".
 
 <br>
 <div class="gif">
