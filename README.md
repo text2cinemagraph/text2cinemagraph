@@ -18,7 +18,7 @@ This is the official PyTorch implementation of "Text-Guided Synthesis of Euleria
 <br>
 <div class="gif">
 <p align="center">
-<img src='assets/method.gif' align="center">
+<img src='assets/method_recording.gif' align="center">
 </p>
 </div>
 
@@ -373,8 +373,8 @@ The code for `FVD` computation has been taken from [StyleGAN-V](https://github.c
 ## Citation
 
 ``` bibtex
-@article{mahapatra2023synthesizing,
-    title={Synthesizing Artistic Cinemagraphs from Text},
+@article{mahapatra2023text,
+    title={Text-Guided Synthesis of Eulerian Cinemagraphs},
     author={Mahapatra, Aniruddha and Siarohin, Aliaksandr and Lee, Hsin-Ying and Tulyakov, Sergey and Zhu, Jun-Yan},
     journal={arXiv preprint arXiv:2307.03190},
     year={2023}
