@@ -373,7 +373,7 @@ The code for `FVD` computation has been taken from [StyleGAN-V](https://github.c
 ## Citation
 
 ``` bibtex
-@article{mahapatra2023text,
+@article{mahapatra2023synthesizing,
     title={Text-Guided Synthesis of Eulerian Cinemagraphs},
     author={Mahapatra, Aniruddha and Siarohin, Aliaksandr and Lee, Hsin-Ying and Tulyakov, Sergey and Zhu, Jun-Yan},
     journal={arXiv preprint arXiv:2307.03190},
